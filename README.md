@@ -12,3 +12,5 @@ To Create New Environment
 ~~~~~
 conda create -p venv python=3.7 -y
 conda activate venv/ - To activate venv Environment
+
+Updated on 24.11.2022
